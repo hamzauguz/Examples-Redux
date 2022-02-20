@@ -1,0 +1,13 @@
+.active {
+  background: red;
+  color: #fff;
+}
+.dark {
+  background: #000;
+  color: #fff;
+}
+
+.light {
+  background: #ddd;
+  color: #5555;
+}
